@@ -1,5 +1,6 @@
 # Primeiro, importamos a biblioteca "Speech Recognition", para baixar cole no prompt de comando "pip install SpeechRecognition"
 import speech_recognition as sr
+import pyaudio
 
 # Aqui vamos inicializar o "sr" para que ele reconheça as falas nas próximas linhas
 # Simplificando, o "r" é o que vamos usar como reconhecedor de fala
