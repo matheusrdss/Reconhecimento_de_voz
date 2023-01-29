@@ -21,4 +21,4 @@ print(f'Eu ouvi: {ouviu}')
 
 #AVISO-----------------
 # SE O CÓDIGO DER ALGUM ERRO, VERIFIQUE SE O PYAUDIO ESTA INSTALADO, SE NÃO ESTIVER, EXECUTE NO PROMPT DE COMANDO:
-# pip install pyaudio
+# pip install PyAudio
