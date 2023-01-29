@@ -18,3 +18,7 @@ ouviu = r.recognize_google(audio, language='pt-BR')
 
 # Nessa linha o print tem uma formatação para adicionar o que ouviu em seguida do "Eu ouvi"
 print(f'Eu ouvi: {ouviu}')
+
+#AVISO-----------------
+# SE O CÓDIGO DER ALGUM ERRO, VERIFIQUE SE O PYAUDIO ESTA INSTALADO, SE NÃO ESTIVER, EXECUTE NO PROMPT DE COMANDO:
+# pip install pyaudio
